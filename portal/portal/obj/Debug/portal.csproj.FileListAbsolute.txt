@@ -1,0 +1,48 @@
+c:\users\laptoid\documents\visual studio 2015\Projects\portal\portal\bin\Debug\portal.exe.config
+c:\users\laptoid\documents\visual studio 2015\Projects\portal\portal\bin\Debug\portal.exe
+c:\users\laptoid\documents\visual studio 2015\Projects\portal\portal\bin\Debug\portal.pdb
+c:\users\laptoid\documents\visual studio 2015\Projects\portal\portal\obj\Debug\portal.csprojResolveAssemblyReference.cache
+c:\users\laptoid\documents\visual studio 2015\Projects\portal\portal\obj\Debug\portal.Form1.resources
+c:\users\laptoid\documents\visual studio 2015\Projects\portal\portal\obj\Debug\portal.Properties.Resources.resources
+c:\users\laptoid\documents\visual studio 2015\Projects\portal\portal\obj\Debug\portal.csproj.GenerateResource.Cache
+c:\users\laptoid\documents\visual studio 2015\Projects\portal\portal\obj\Debug\portal.exe
+c:\users\laptoid\documents\visual studio 2015\Projects\portal\portal\obj\Debug\portal.pdb
+c:\users\laptoid\documents\visual studio 2015\Projects\portal\portal\obj\Debug\portal.Form2.resources
+c:\users\laptoid\documents\visual studio 2015\Projects\portal\portal\obj\Debug\portal.Form3.resources
+C:\Users\LAPTOID\documents\visual studio 2015\Projects\portal\portal\obj\Debug\portal.Form4.resources
+D:\ \ammar\portal\portal\bin\Debug\portal.exe.config
+D:\ \ammar\portal\portal\obj\Debug\portal.exe
+D:\ \ammar\portal\portal\obj\Debug\portal.pdb
+D:\ \ammar\portal\portal\bin\Debug\portal.exe
+D:\ \ammar\portal\portal\bin\Debug\portal.pdb
+D:\ \ammar\portal\portal\obj\Debug\portal.csprojResolveAssemblyReference.cache
+D:\ \ammar\portal\portal\obj\Debug\portal.Form1.resources
+D:\ \ammar\portal\portal\obj\Debug\portal.Form2.resources
+D:\ \ammar\portal\portal\obj\Debug\portal.Form3.resources
+D:\ \ammar\portal\portal\obj\Debug\portal.Form4.resources
+D:\ \ammar\portal\portal\obj\Debug\portal.Properties.Resources.resources
+D:\ \ammar\portal\portal\obj\Debug\portal.csproj.GenerateResource.Cache
+D:\3rd Semster Courses\data strucutre\ammar\portal\portal\bin\Debug\portal.exe.config
+D:\3rd Semster Courses\data strucutre\ammar\portal\portal\obj\Debug\portal.exe
+D:\3rd Semster Courses\data strucutre\ammar\portal\portal\obj\Debug\portal.pdb
+D:\3rd Semster Courses\data strucutre\ammar\portal\portal\bin\Debug\portal.exe
+D:\3rd Semster Courses\data strucutre\ammar\portal\portal\bin\Debug\portal.pdb
+D:\3rd Semster Courses\data strucutre\ammar\portal\portal\obj\Debug\portal.csprojResolveAssemblyReference.cache
+D:\3rd Semster Courses\data strucutre\ammar\portal\portal\obj\Debug\portal.Form1.resources
+D:\3rd Semster Courses\data strucutre\ammar\portal\portal\obj\Debug\portal.Form2.resources
+D:\3rd Semster Courses\data strucutre\ammar\portal\portal\obj\Debug\portal.Form3.resources
+D:\3rd Semster Courses\data strucutre\ammar\portal\portal\obj\Debug\portal.Form4.resources
+D:\3rd Semster Courses\data strucutre\ammar\portal\portal\obj\Debug\portal.Properties.Resources.resources
+D:\3rd Semster Courses\data strucutre\ammar\portal\portal\obj\Debug\portal.csproj.GenerateResource.Cache
+C:\Users\123\Desktop\update\ammar\portal\portal\bin\Debug\portal.exe.config
+C:\Users\123\Desktop\update\ammar\portal\portal\obj\Debug\portal.exe
+C:\Users\123\Desktop\update\ammar\portal\portal\obj\Debug\portal.pdb
+C:\Users\123\Desktop\update\ammar\portal\portal\bin\Debug\portal.exe
+C:\Users\123\Desktop\update\ammar\portal\portal\bin\Debug\portal.pdb
+C:\Users\123\Desktop\update\ammar\portal\portal\obj\Debug\portal.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\update\ammar\portal\portal\obj\Debug\portal.Form1.resources
+C:\Users\123\Desktop\update\ammar\portal\portal\obj\Debug\portal.Form2.resources
+C:\Users\123\Desktop\update\ammar\portal\portal\obj\Debug\portal.Form3.resources
+C:\Users\123\Desktop\update\ammar\portal\portal\obj\Debug\portal.Form4.resources
+C:\Users\123\Desktop\update\ammar\portal\portal\obj\Debug\portal.Properties.Resources.resources
+C:\Users\123\Desktop\update\ammar\portal\portal\obj\Debug\portal.csproj.GenerateResource.Cache
